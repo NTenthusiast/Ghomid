@@ -1,0 +1,2 @@
+# Ghomid
+A new student.
